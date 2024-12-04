@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899686560944",
+    "project_id": "latfirebase-ad309",
+    "storage_bucket": "latfirebase-ad309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899686560944:android:c95f74e24f297c3b737775",
+        "android_client_info": {
+          "package_name": "com.example.latfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zhFrLL7G5L9qswsZv53pi4mupYoKwmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
